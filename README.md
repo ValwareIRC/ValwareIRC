@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valwareirc&label=Profile%20views&color=0e75b6&style=flat" alt="valwareirc" /> </p>
 
-- 🔭 I’m currently working on IRC services which link with WordPress: [DalekIRC](https://github.com/DalekIRC/Dalek-Services)
+- 🔭 I’m currently working on IRC services which link with WordPress: [DalekIRC](https://github.com/DalekIRC/)
 
 - 👯 I’m looking to collaborate with UnrealIRCd. I enjoy making modules for it: [UnrealIRCd](https://github.com/unrealircd/unrealircd)
 
