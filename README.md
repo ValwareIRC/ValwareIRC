@@ -13,7 +13,7 @@
 
 - 📝 I have some boring shit on my test net [https://valware.uk](https://valware.uk)
 
-- 📫 How to reach me **v.a.pond@outlook.com**
+- 📫 How to reach me **valerie@valware.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
