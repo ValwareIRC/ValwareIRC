@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with WordPress plugins. I'm not too great and I'm still learning the API: [WordPress](https://github.com/wordpress/wordpress)
 
-- 👨‍💻 All of my projects are available at [https://guthub.com/ValwareIRC](https://guthub.com/ValwareIRC)
+- 👨‍💻 All of my projects are available at [https://guthub.com/ValwareIRC](http://guthub.com/ValwareIRC)
 
 - 📝 I have some boring shit on my test net [https://valware.uk](https://valware.uk)
 
