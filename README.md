@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valwareirc&label=Profile%20views&color=0e75b6&style=flat" alt="valwareirc" /> </p>
 
-- 🔭 I’m currently working on IRC services which link with WordPress: [DalekIRC](https://github.com/DalekIRC/)
+- 🔭 If you're on my page, you may be interested in:
+  - [Dalek IRC Services which link with WordPress and UnrealIRCd](https://github.com/DalekIRC/)
+  - [Administration Web Panel for UnrealIRCd](https://github.com/unrealircd/unrealircd-webpanel/)
+  - [Third-Party UnrealIRCd modules](https://github.com/ValwareIRC/valware-unrealircd-mods)
 
-- 👯 I’m looking to collaborate with UnrealIRCd. I enjoy making modules for it: [UnrealIRCd](https://github.com/unrealircd/unrealircd)
+- 👯 I’m looking to collaborate with people who want to bring IRC to the future by making modern integrations.
 
-- 🤝 I’m looking for help with WordPress plugins. I'm not too great and I'm still learning the API: [WordPress](https://github.com/wordpress/wordpress)
+- 🤝 I’m looking for help with:
+  - [The UnrealIRCd Admin Panel](https://github.com/unrealircd/unrealircd-webpanel/)
+  - [DalekIRC's WordPress plugin](https://github.com/DalekIRC/dalek)
 
 - 👨‍💻 All of my projects are available at [https://guthub.com/ValwareIRC](http://guthub.com/ValwareIRC)
 
