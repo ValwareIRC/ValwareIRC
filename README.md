@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valwareirc&label=Profile%20views&color=0e75b6&style=flat" alt="valwareirc" /> </p>
 
 - 🔭 If you're on my page, you may be interested in:
+  - [Dalek IRC `no-services` which provide built-in services functionality. This is different from the concept of Ergo, where the destination and responses are still pseudobots.](https://github.com/DalekIRC/no-services)
   - [Dalek IRC Services which link with WordPress and UnrealIRCd](https://github.com/DalekIRC/)
   - [Administration Web Panel for UnrealIRCd](https://github.com/unrealircd/unrealircd-webpanel/)
   - [Third-Party UnrealIRCd modules](https://github.com/ValwareIRC/valware-unrealircd-mods)
