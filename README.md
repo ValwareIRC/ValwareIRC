@@ -5,7 +5,7 @@
 
 - 🔭 If you're on my page, you may be interested in:
   - [Dalek IRC `no-services` which provide built-in services functionality. This is different from the concept of Ergo, where the destination and responses are still pseudobots.](https://github.com/DalekIRC/no-services)
-  - [Dalek IRC Services which link with WordPress and UnrealIRCd](https://github.com/DalekIRC/)
+  - [Silian IRC Webchat Widget](https://github.com/DalekIRC/Silian)
   - [Administration Web Panel for UnrealIRCd](https://github.com/unrealircd/unrealircd-webpanel/)
   - [Third-Party UnrealIRCd modules](https://github.com/ValwareIRC/valware-unrealircd-mods)
 
