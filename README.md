@@ -5,6 +5,7 @@
 
 - 🔭 If you're on my page, you may be interested in:
   - [Dalek IRC `no-services` which provide built-in services functionality. This is different from the concept of Ergo, where the destination and responses are still pseudobots.](https://github.com/DalekIRC/no-services)
+  - [UnrealIRCd Configuration VSCode Extension](https://github.com/ValwareIRC/unrealircd-conf-shl)
   - [Silian IRCv3 Webchat Widget](https://github.com/DalekIRC/Silian)
   - [Administration Web Panel for UnrealIRCd](https://github.com/unrealircd/unrealircd-webpanel/)
   - [Third-Party UnrealIRCd Web Panel Plugins](https://github.com/unrealircd/unrealircd-webpanel-plugins/)
