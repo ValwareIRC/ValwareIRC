@@ -8,6 +8,9 @@
 ---
 ### 🔭 Featured Projects:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/ObsidianIRC/ObsidianIRC/" target="_blank">
+    <img src="https://img.shields.io/badge/Obsidian%20IRC%20Client-36393E?style=flat&logo=github" alt="Obsidian IRC Client" height="30" />
+  </a><br>
   <a href="https://github.com/ValwareIRC/unrealircd-conf-shl" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Config%20VSCode%20Extension-1E90FF?style=flat&logo=github" alt="UnrealIRCd VSCode" height="30" />
   </a><br>
