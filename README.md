@@ -57,16 +57,6 @@ Email: **valerie@valware.co.uk**
 
 ---
 
-### Connect with Me:
-
-<p align="center">
-  <a href="https://twitter.com/valwareirc" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a><br>
-</p>
-
----
-
 ### 🛠️ Languages, Tools and Resources:
 <p align="center">
   <p>PHP • C • JavaScript • TypeScript • mIRC Script</p>
