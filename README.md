@@ -9,10 +9,13 @@
 ### 🔭 Featured Projects:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/ObsidianIRC/ObsidianIRC/" target="_blank">
-    <img src="https://img.shields.io/badge/Obsidian%20IRC%20Client-36393E?style=flat&logo=github" alt="Obsidian IRC Client" height="30" />
+    <img src="https://img.shields.io/badge/ObsidianIRC%20IRCv3%20Client-36393E?style=flat&logo=github" alt="Obsidian IRCv3 Client" height="30" />
   </a><br>
   <a href="https://github.com/ValwareIRC/unrealircd-conf-shl" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Config%20VSCode%20Extension-1E90FF?style=flat&logo=github" alt="UnrealIRCd VSCode" height="30" />
+  </a><br>
+  <a href="https://github.com/ValwareIRC/unrealircd-tui" target="_blank">
+    <img src="https://img.shields.io/badge/UnrealIRCd%20Terminal%20User%20Interface-1E90FF?style=flat&logo=github" alt="UnrealIRCd TUI" height="30" />
   </a><br>
   <a href="https://github.com/ValwareIRC/valware-unrealircd-mods" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Modules-1E90FF?style=flat&logo=github" alt="UnrealIRCd Modules" height="30" />
@@ -26,6 +29,13 @@
   <a href="https://github.com/ValwareIRC/mIRC-Scripts" target="_blank">
     <img src="https://img.shields.io/badge/mIRC%20Scripts-red?style=flat&logo=github" alt="mIRC Scripts" height="30" />
   </a><br>
+  <a href="https://github.com/h4ks-com/hanna" target="_blank">
+    <img src="https://img.shields.io/badge/Hanna%20IRC%20Bot-2E8B57?style=flat&logo=github" alt="Hanna IRC bot" height="30" />
+  </a>
+  <a href="https://www.npmjs.com/package/n8n-nodes-hanna" target="_blank">
+    <img src="https://img.shields.io/badge/Hanna%20n8n%20nodes-2E8B57?style=flat&logo=nodedotjs" alt="Hanna n8n nodes" height="30" />
+  </a>  
+  <br>
   <a href="https://github.com/DalekIRC/no-services" target="_blank">
     <img src="https://img.shields.io/badge/Dalek%20IRC%20no--services-2E8B57?style=flat&logo=github" alt="Dalek IRC no-services" height="30" />
   </a><br>
