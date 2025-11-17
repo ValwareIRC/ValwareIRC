@@ -13,16 +13,16 @@
   </a><br>
   <a href="https://github.com/ValwareIRC/unrealircd-conf-shl" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Config%20VSCode%20Extension-1E90FF?style=flat&logo=github" alt="UnrealIRCd VSCode" height="30" />
-  </a><br>
+  </a>
   <a href="https://github.com/ValwareIRC/unrealircd-tui" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Terminal%20User%20Interface-1E90FF?style=flat&logo=github" alt="UnrealIRCd TUI" height="30" />
-  </a><br>
+  </a>
   <a href="https://github.com/ValwareIRC/valware-unrealircd-mods" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Modules-1E90FF?style=flat&logo=github" alt="UnrealIRCd Modules" height="30" />
-  </a><br>
+  </a>
   <a href="https://github.com/unrealircd/unrealircd-webpanel/" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Admin%20Panel-1E90FF?style=flat&logo=github" alt="UnrealIRCd Admin Panel" height="30" />
-  </a><br>
+  </a>
   <a href="https://github.com/unrealircd/unrealircd-webpanel-plugins/" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Web%20Panel%20Plugins-1E90FF?style=flat&logo=github" alt="Web Panel Plugins" height="30" />
   </a><br>
