@@ -46,30 +46,9 @@
 
 ---
 
-### 👯 Collaborations:
-I’m looking to collaborate with people who want to bring IRC into the future with modern integrations.
-
----
-
-### 🤝 Help Wanted:
-- [The UnrealIRCd Admin Panel](https://github.com/unrealircd/unrealircd-webpanel/)
-- [DalekIRC's WordPress Plugin](https://github.com/DalekIRC/dalek)
-
----
-
-### 👨‍💻 Check Out My Projects:
-All of my projects are available at [GitHub - ValwareIRC](https://github.com/ValwareIRC).
-
----
-
-### 📫 Reach Me:
-Email: **valerie@valware.co.uk**
-
----
-
 ### 🛠️ Languages, Tools and Resources:
 <p align="center">
-  <p>PHP • C • JavaScript • TypeScript • mIRC Script</p>
+  <p>PHP • C • JavaScript • TypeScript • Golang • mIRC Script</p>
   <p> UnrealIRCd • Bootstrap • VSCode • GitHub • DalekIRC • WordPress • IRCPress • UnrealIRCd Admin Panel</p>
   
 </p>
