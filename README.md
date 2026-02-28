@@ -8,21 +8,28 @@
     <img src="https://img.shields.io/badge/ObsidianIRC%20IRCv3%20Client-5c6aff?style=flat&logo=react" alt="Obsidian IRCv3 Client" height="30" />
   </a><br>
   <h4><img src="https://unrealircd.org/favicon.ico" width="16px" height="16px"> UnrealIRCd</h4>
+  
+  <a href="https://github.com/unrealircd/unrealircd" target="_blank">
+    <img src="https://img.shields.io/badge/UnrealIRCd-193140?style=flat&logo=c" alt="UnrealIRCd" height="30" />
+  </a><br>
+  <a href="https://github.com/unrealircd/unrealircd-contrib" target="_blank">
+    <img src="https://img.shields.io/badge/UnrealIRCd%20Official%203rd%20Party%20Modules-193140?style=flat&logo=c" alt="UnrealIRCd 3rd Party Modules" height="30" />
+  </a>
+  <a href="https://github.com/ValwareIRC/valware-unrealircd-mods" target="_blank">
+    <img src="https://img.shields.io/badge/UnrealIRCd%20Modules%20by%20Valware-193140?style=flat&logo=c" alt="UnrealIRCd Modules by Valware" height="30" />
+  </a><br>
   <a href="https://github.com/ValwareIRC/unrealircd-conf-shl" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Config%20VSCode%20Extension-193140?style=flat&logo=typescript" alt="UnrealIRCd VSCode" height="30" />
-  </a> 
+  </a><br>
   <a href="https://github.com/ValwareIRC/unrealircd-tui" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Terminal%20User%20Interface-193140?style=flat&logo=go" alt="UnrealIRCd TUI" height="30" />
-  </a> 
-  <a href="https://github.com/ValwareIRC/valware-unrealircd-mods" target="_blank">
-    <img src="https://img.shields.io/badge/UnrealIRCd%20Modules-193140?style=flat&logo=c" alt="UnrealIRCd Modules" height="30" />
   </a><br>
   <a href="https://github.com/unrealircd/unrealircd-webpanel/" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Admin%20Panel-193140?style=flat&logo=php" alt="UnrealIRCd Admin Panel" height="30" />
   </a>
   <a href="https://github.com/unrealircd/unrealircd-webpanel-plugins/" target="_blank">
     <img src="https://img.shields.io/badge/UnrealIRCd%20Web%20Panel%20Plugins-193140?style=flat&logo=php" alt="Web Panel Plugins" height="30" />
-  </a>
+  </a><br>
   <a href="https://github.com/ObsidianIRC/ObbyScript/" target="_blank">
     <img src="https://img.shields.io/badge/ObbyScript:%20UnrealIRCd%20JavaScript%20Engine-193140?style=flat&logo=javascript" alt="Web Panel Plugins" height="30" />
   </a><br>
