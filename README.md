@@ -6,6 +6,9 @@
   <h4><img src="https://github.com/ObsidianIRC/ObsidianIRC/blob/main/public/images/obsidian.png" width="16px" height="16px"> ObsidianIRC</h4>
   <a href="https://github.com/ObsidianIRC/ObsidianIRC/" target="_blank">
     <img src="https://img.shields.io/badge/ObsidianIRC%20IRCv3%20Client-5c6aff?style=flat&logo=react" alt="Obsidian IRCv3 Client" height="30" />
+  </a>
+  <a href="https://github.com/ObsidianIRC/tobby/" target="_blank">
+    <img src="https://img.shields.io/badge/Tobby%20IRCv3%20TUI%20Client-5c6aff?style=flat&logo=react" alt="Tobby IRCv3 TUI Client" height="30" />
   </a><br>
   <h4><img src="https://unrealircd.org/favicon.ico" width="16px" height="16px"> UnrealIRCd</h4>
   
